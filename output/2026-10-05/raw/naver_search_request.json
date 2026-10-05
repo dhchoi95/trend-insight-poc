@@ -1,0 +1,42 @@
+{
+  "startDate": "2026-08-05",
+  "endDate": "2026-10-04",
+  "timeUnit": "date",
+  "keywordGroups": [
+    {
+      "groupName": "스웨이드 자켓",
+      "keywords": [
+        "스웨이드 자켓",
+        "스웨이드자켓"
+      ]
+    },
+    {
+      "groupName": "트위드 자켓",
+      "keywords": [
+        "트위드 자켓",
+        "트위드자켓"
+      ]
+    },
+    {
+      "groupName": "니트 가디건",
+      "keywords": [
+        "니트 가디건",
+        "니트가디건"
+      ]
+    },
+    {
+      "groupName": "트렌치코트",
+      "keywords": [
+        "트렌치코트",
+        "트렌치 코트"
+      ]
+    },
+    {
+      "groupName": "가죽 자켓",
+      "keywords": [
+        "가죽 자켓",
+        "가죽자켓"
+      ]
+    }
+  ]
+}

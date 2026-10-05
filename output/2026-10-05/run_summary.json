@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-05",
+  "sources": {
+    "NOW": "success",
+    "FASHION": "not_collected: credentials_missing_or_offline"
+  },
+  "google_items": 10,
+  "naver_daily_records": 0,
+  "editorial": "work_session_import",
+  "input_hash": "b6b1aa2616e64f8fb09ffad3014558a1dfb9d94cbe83b8288f95189b33ca5843",
+  "output": "/workspace/scratch/100580baf83a/trend-insight-poc/output/2026-10-05"
+}

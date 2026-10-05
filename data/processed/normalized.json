@@ -1,0 +1,392 @@
+[
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "kbo",
+    "canonical_keyword": "kbo",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 1,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "500+",
+    "volume_lower_bound": 500,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-05T01:30:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "KT Wiz Hits 1 Million Spectators, Becomes Popular Team After 11 Years",
+        "url": "https://www.chosun.com/english/sports-en/2026/10/05/7QCRX4D4HVCLNGR4RGEU6G5HTI/",
+        "source": "조선일보"
+      },
+      {
+        "title": "\"Resting for three days and then waiting in the bullpen is only natural\": Manager Ahn Gang-cheol breaks into a hearty laugh at ace's heroic 102-pitch complete game [Suwon on-site]",
+        "url": "https://www.starnewskorea.com/en/sports/2026/10/04/2026100414231250244",
+        "source": "스타뉴스"
+      },
+      {
+        "title": "KT Wiz clinch KBO pennant, direct ticket to Korean Series",
+        "url": "https://en.yna.co.kr/view/AEN20261005004100315",
+        "source": "Yonhap News Agency"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "김태규",
+    "canonical_keyword": "김태규",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 2,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "1000+",
+    "volume_lower_bound": 1000,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-05T01:20:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "신동욱 “‘전두환 내란 부정’ 김태규, 진행자에 낚여”…민주 “제명 동참하라”",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1280922.html",
+        "source": "한겨레"
+      },
+      {
+        "title": "與, '내란 부정·극우 선동' 野 맹폭…\"즉각 제명하라\"",
+        "url": "https://v.daum.net/v/20261005104806487",
+        "source": "Daum"
+      },
+      {
+        "title": "‘출호이자 반호이자’…여야 마이크 잔혹사",
+        "url": "https://m.ekn.kr/view.php?key=20261002027171782",
+        "source": "에너지경제신문"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "실종자",
+    "canonical_keyword": "실종자",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 3,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "500+",
+    "volume_lower_bound": 500,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-05T01:20:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "해수부 장관, 제주 어선 전복사고에 \"인명구조에 최선\" 지시",
+        "url": "https://v.daum.net/v/20261005091800635",
+        "source": "Daum"
+      },
+      {
+        "title": "제주 차귀도 해상 선박전복 2명 실종...'승선 인원 달라'",
+        "url": "https://www.ytn.co.kr/_cs/_ln_0115_202610051620502635_005.html",
+        "source": "YTN"
+      },
+      {
+        "title": "위성곤 제주지사 \"어선사고 실종자 수색에 모든 자원 투입\"",
+        "url": "https://www.yna.co.kr/view/AKR20261005028900056",
+        "source": "연합뉴스"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "전국노래자랑",
+    "canonical_keyword": "전국노래자랑",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 4,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "2000+",
+    "volume_lower_bound": 2000,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-05T01:10:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "초대가수도 아닌데…‘전국노래자랑’에 나타난 뜻밖의 유명 여가수",
+        "url": "https://www.mk.co.kr/news/culture/12168257",
+        "source": "매일경제"
+      },
+      {
+        "title": "소녀시대 유리가 왜 거기서 나와?…'전국노래자랑' 맨 앞줄 깜짝 포착 - 머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/05/2026100516115835691",
+        "source": "머니투데이"
+      },
+      {
+        "title": "’제주살이’ 소녀시대 유리, ’전국노래자랑’ 깜짝 등장",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20261005153515Zq2",
+        "source": "연합뉴스TV"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "리센느",
+    "canonical_keyword": "리센느",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 5,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "1000+",
+    "volume_lower_bound": 1000,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-05T01:00:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "\"빵 사면 '이것' 준다고?\"…나흘 만에 10만개 팔렸다[지금사는방식]",
+        "url": "https://v.daum.net/v/20261005075858242",
+        "source": "Daum"
+      },
+      {
+        "title": "'빵지순례' 명소 된 편의점",
+        "url": "https://www.hankyung.com/article/2026100425761",
+        "source": "한국경제"
+      },
+      {
+        "title": "CU ‘리센느 빵’ 보름만에 60만 개 판매",
+        "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261005.22012000897&kid=0200",
+        "source": "국제신문"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "유해진",
+    "canonical_keyword": "유해진",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 6,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "2000+",
+    "volume_lower_bound": 2000,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-05T00:50:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6855721_37004.html",
+        "source": "MBC 뉴스"
+      },
+      {
+        "title": "육영수 사건 수사 검사, 영화 ‘암살자(들)’ 박정희 배후설에 \"말도 안 돼\"",
+        "url": "https://news.jtbc.co.kr/article/NB12321350",
+        "source": "JTBC"
+      },
+      {
+        "title": "유해진 측 \"신변 위협에 엄정 대응\"…영화인연대도 우려 표명",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR202610051149105ec",
+        "source": "연합뉴스TV"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "카를로스 알카라스",
+    "canonical_keyword": "카를로스 알카라스",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 7,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "5000+",
+    "volume_lower_bound": 5000,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-05T00:50:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "조코비치, 세계 2위 츠베레프 물리치고 차이나오픈 4강 진출",
+        "url": "https://www.yna.co.kr/view/AKR20261005023600007",
+        "source": "연합뉴스"
+      },
+      {
+        "title": "‘테니스 전설’ 조코비치, ‘세계 2위’ 츠베레프 꺾고 차이나오픈 4강행",
+        "url": "https://www.donga.com/news/Sports/article/all/20261005/134786570/1",
+        "source": "동아일보"
+      },
+      {
+        "title": "즈베레프 꺾고 세리머니하는 조코비치",
+        "url": "https://www.newsis.com/view/NISI20261005_0002255507",
+        "source": "뉴시스"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "대전문화방송",
+    "canonical_keyword": "대전문화방송",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 8,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "500+",
+    "volume_lower_bound": 500,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-05T00:30:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "대전·세종·충남 '어제보다 쌀쌀'…서해안 강풍주의",
+        "url": "https://www.yna.co.kr/view/AKR20261005003600063",
+        "source": "연합뉴스"
+      },
+      {
+        "title": "5일 충청권 새벽부터 비… 낮 기온 전날보다 4-7도 '뚝'",
+        "url": "https://v.daum.net/v/20261004224359611",
+        "source": "Daum"
+      },
+      {
+        "title": "[오늘의 날씨] 충북·세종(5일, 월)…흐리고 5㎜ 안팎 비",
+        "url": "https://www.news1.kr/local/sejong-chungbuk/6310214",
+        "source": "뉴스1"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "띠별 운세",
+    "canonical_keyword": "띠별 운세",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 9,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "2000+",
+    "volume_lower_bound": 2000,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-05T00:00:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "[재미로 보는 오늘의 운세] 10월 5일 (월요일) 67년생, 보증이나 금전거래 조심하라",
+        "url": "https://www.segye.com/newsView/20261004506655",
+        "source": "세계일보"
+      },
+      {
+        "title": "[오늘의 운세] 2026년 10월 05일 별자리 운세",
+        "url": "https://www.ytn.co.kr/_ln/0121_202610050000000002",
+        "source": "YTN"
+      },
+      {
+        "title": "[속보] 李대통령, 금융기관 개인정보 유출에 “엄중 인식, 철저 조사”",
+        "url": "https://www.mk.co.kr/news/politics/12167996",
+        "source": "매일경제"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "폭격기",
+    "canonical_keyword": "폭격기",
+    "collected_at": "2026-10-05T09:38:12.832777+00:00",
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "source_position": 10,
+    "source_rank": null,
+    "interest_score": null,
+    "search_volume_bucket": "2000+",
+    "volume_lower_bound": 2000,
+    "volume_precision": "bucket_lower_bound",
+    "source_growth_rate": null,
+    "trend_status": null,
+    "published_at": "2026-10-04T23:50:00-07:00",
+    "trend_started_at": null,
+    "related_queries": null,
+    "news_metadata": [
+      {
+        "title": "미 폭격기 12대 영국서 긴급 철수 \"극히 이례적 대피\"",
+        "url": "https://www.ytn.co.kr/_ln/0104_202610051213293463",
+        "source": "YTN"
+      },
+      {
+        "title": "“이란이 노린다”…英공군기지 美 B-1B폭격기 12대, 본토 긴급 철수",
+        "url": "https://www.donga.com/news/Inter/article/all/20261005/134786059/1",
+        "source": "동아일보"
+      },
+      {
+        "title": "미군, 영국 공군기지서 폭격기 전면 철수…이란 연계 테러 우려",
+        "url": "https://v.daum.net/v/20261005081314477",
+        "source": "Daum"
+      }
+    ],
+    "coverage": "RSS_returned_items_only",
+    "series_scope": "KR_RSS_v1",
+    "new_to_observed_feed": null
+  }
+]

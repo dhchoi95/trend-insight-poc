@@ -1,0 +1,258 @@
+{
+  "report_date": "2026-10-05",
+  "collected_at": "2026-10-05T09:38:12.832777+00:00",
+  "coverage": {
+    "NOW": "success",
+    "FASHION": "not_collected: credentials_missing_or_offline"
+  },
+  "history": {
+    "google_previous_day_available": false,
+    "naver_history": "unavailable"
+  },
+  "calculated_aggregates": {
+    "observed_rss_item_count": 10,
+    "observed_fashion_daily_record_count": 0
+  },
+  "observed": [
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "kbo",
+      "source_position": 1,
+      "search_volume_bucket": "500+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0001"
+      ]
+    },
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "김태규",
+      "source_position": 2,
+      "search_volume_bucket": "1000+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0002"
+      ]
+    },
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "실종자",
+      "source_position": 3,
+      "search_volume_bucket": "500+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0003"
+      ]
+    },
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "전국노래자랑",
+      "source_position": 4,
+      "search_volume_bucket": "2000+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0004"
+      ]
+    },
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "리센느",
+      "source_position": 5,
+      "search_volume_bucket": "1000+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0005"
+      ]
+    },
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "유해진",
+      "source_position": 6,
+      "search_volume_bucket": "2000+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0006"
+      ]
+    },
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "카를로스 알카라스",
+      "source_position": 7,
+      "search_volume_bucket": "5000+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0007"
+      ]
+    },
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "대전문화방송",
+      "source_position": 8,
+      "search_volume_bucket": "500+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0008"
+      ]
+    },
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "띠별 운세",
+      "source_position": 9,
+      "search_volume_bucket": "2000+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0009"
+      ]
+    },
+    {
+      "source": "google_trending_rss",
+      "category": "NOW",
+      "keyword": "폭격기",
+      "source_position": 10,
+      "search_volume_bucket": "2000+",
+      "daily_growth_pct": null,
+      "rank_change": null,
+      "seven_day_momentum_pct": null,
+      "thirty_day_momentum_pct": null,
+      "persistent_rise": null,
+      "fast_rising": null,
+      "new_to_observed_feed": null,
+      "fact_refs": [
+        "F0010"
+      ]
+    }
+  ],
+  "signals": {
+    "fast_rising": [],
+    "persistent_rise": [],
+    "new_to_observed_feed": [],
+    "falling": [],
+    "cross_source": []
+  },
+  "facts": [
+    {
+      "id": "F0001",
+      "type": "Source Fact",
+      "text": "kbo — Google 한국 Trending Now RSS 검색량 구간 500+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0002",
+      "type": "Source Fact",
+      "text": "김태규 — Google 한국 Trending Now RSS 검색량 구간 1000+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0003",
+      "type": "Source Fact",
+      "text": "실종자 — Google 한국 Trending Now RSS 검색량 구간 500+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0004",
+      "type": "Source Fact",
+      "text": "전국노래자랑 — Google 한국 Trending Now RSS 검색량 구간 2000+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0005",
+      "type": "Source Fact",
+      "text": "리센느 — Google 한국 Trending Now RSS 검색량 구간 1000+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0006",
+      "type": "Source Fact",
+      "text": "유해진 — Google 한국 Trending Now RSS 검색량 구간 2000+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0007",
+      "type": "Source Fact",
+      "text": "카를로스 알카라스 — Google 한국 Trending Now RSS 검색량 구간 5000+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0008",
+      "type": "Source Fact",
+      "text": "대전문화방송 — Google 한국 Trending Now RSS 검색량 구간 500+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0009",
+      "type": "Source Fact",
+      "text": "띠별 운세 — Google 한국 Trending Now RSS 검색량 구간 2000+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0010",
+      "type": "Source Fact",
+      "text": "폭격기 — Google 한국 Trending Now RSS 검색량 구간 2000+ (피드 표시값, 정확한 검색 횟수·공식 순위 아님)"
+    },
+    {
+      "id": "F0011",
+      "type": "Calculated Metric",
+      "text": "이번 성공 수집 RSS의 관측 항목 수: 10개 (공식 전체 트렌드 수 아님)"
+    }
+  ],
+  "limitations": [
+    "RSS 순서는 공식 순위가 아니다",
+    "검색량 구간으로 증가율을 계산하지 않는다",
+    "첫 관측은 새 트렌드 판정이 아니다",
+    "관련 뉴스 제목을 배경 사실로 사용하지 않는다"
+  ]
+}

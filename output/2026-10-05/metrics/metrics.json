@@ -1,0 +1,172 @@
+[
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "kbo",
+    "source_position": 1,
+    "search_volume_bucket": "500+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0001"
+    ]
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "김태규",
+    "source_position": 2,
+    "search_volume_bucket": "1000+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0002"
+    ]
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "실종자",
+    "source_position": 3,
+    "search_volume_bucket": "500+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0003"
+    ]
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "전국노래자랑",
+    "source_position": 4,
+    "search_volume_bucket": "2000+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0004"
+    ]
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "리센느",
+    "source_position": 5,
+    "search_volume_bucket": "1000+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0005"
+    ]
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "유해진",
+    "source_position": 6,
+    "search_volume_bucket": "2000+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0006"
+    ]
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "카를로스 알카라스",
+    "source_position": 7,
+    "search_volume_bucket": "5000+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0007"
+    ]
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "대전문화방송",
+    "source_position": 8,
+    "search_volume_bucket": "500+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0008"
+    ]
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "띠별 운세",
+    "source_position": 9,
+    "search_volume_bucket": "2000+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0009"
+    ]
+  },
+  {
+    "source": "google_trending_rss",
+    "category": "NOW",
+    "keyword": "폭격기",
+    "source_position": 10,
+    "search_volume_bucket": "2000+",
+    "daily_growth_pct": null,
+    "rank_change": null,
+    "seven_day_momentum_pct": null,
+    "thirty_day_momentum_pct": null,
+    "persistent_rise": null,
+    "fast_rising": null,
+    "new_to_observed_feed": null,
+    "fact_refs": [
+      "F0010"
+    ]
+  }
+]

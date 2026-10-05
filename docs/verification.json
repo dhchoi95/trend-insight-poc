@@ -1,0 +1,44 @@
+{
+  "tests_passed": 9,
+  "actual_rss_item_count": 10,
+  "database_counts": {
+    "run": 2,
+    "keyword": 10,
+    "snapshot": 10,
+    "report": 2
+  },
+  "independent_webpage_comparison": "not_performed",
+  "external_openai_api_calls": 0,
+  "naver_api_calls": 0,
+  "comparison": "archived_source_XML_vs_parser",
+  "samples_compared": [
+    {
+      "keyword": "kbo",
+      "source_bucket": "500+",
+      "keyword_match": true,
+      "bucket_match": true,
+      "source_rank": null
+    },
+    {
+      "keyword": "전국노래자랑",
+      "source_bucket": "2000+",
+      "keyword_match": true,
+      "bucket_match": true,
+      "source_rank": null
+    },
+    {
+      "keyword": "카를로스 알카라스",
+      "source_bucket": "5000+",
+      "keyword_match": true,
+      "bucket_match": true,
+      "source_rank": null
+    },
+    {
+      "keyword": "띠별 운세",
+      "source_bucket": "2000+",
+      "keyword_match": true,
+      "bucket_match": true,
+      "source_rank": null
+    }
+  ]
+}
